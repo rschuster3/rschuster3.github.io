@@ -1,0 +1,7 @@
+list:
+  - title: neuroblog home 
+    url: neuroblog
+  - title: why?
+    url: neuroblog_about
+  - title: main
+    url: ""
