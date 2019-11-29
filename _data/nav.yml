@@ -1,5 +1,7 @@
 list:
   - title: Home
     url: ""
+  - title: Neuroblog
+    url: neuroblog
   - title: Feed
     url: feed.xml

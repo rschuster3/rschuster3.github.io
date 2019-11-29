@@ -1,4 +1,4 @@
-title: Artist Bushel In Elephants
+title: Ryan Schuster
 markdown: kramdown
 url: ""
 baseurl: ""
@@ -19,12 +19,15 @@ paginate_path: "/page:num/"
 
 paginate: 5
 
-collections_dir: neuroblog/all_collections
+collections_dir: all_collections
+
 collections:
-  posts:
+  neuroblog:
     output: true
-  projects:
-    output: true
+#  posts:
+#    output: true
+#  projects:
+#    output: true
 
 defaults:
   - scope:
