@@ -1,7 +1,7 @@
 title: Dark Reader
 markdown: kramdown
 url: ""
-baseurl: "/jekyll-theme-dark-reader"
+baseurl: "/neuroblog"
 
 # for atom feed
 author:
