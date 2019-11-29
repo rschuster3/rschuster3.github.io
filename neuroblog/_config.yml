@@ -1,12 +1,12 @@
-title: Dark Reader
+title: Artist Bushel In Elephants
 markdown: kramdown
 url: ""
 baseurl: "/neuroblog"
 
 # for atom feed
 author:
-  name: Sharad Raj Singh Maurya
-  email: dev_sharad@outlook.com
+  name: Ryan Schuster
+  email: bob@bobjoe.com
 
 plugins:
   - jekyll-paginate
