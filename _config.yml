@@ -1,7 +1,7 @@
 title: Artist Bushel In Elephants
 markdown: kramdown
 url: ""
-baseurl: "/neuroblog"
+baseurl: ""
 
 # for atom feed
 author:
@@ -19,7 +19,7 @@ paginate_path: "/page:num/"
 
 paginate: 5
 
-collections_dir: all_collections
+collections_dir: neuroblog/all_collections
 collections:
   posts:
     output: true
