@@ -2,6 +2,6 @@ list:
   - title: neuroblog home 
     url: neuroblog
   - title: why?
-    url: neuroblog_about
+    url: neuroblog/about
   - title: main
     url: ""
